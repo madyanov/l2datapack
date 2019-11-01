@@ -15,6 +15,12 @@ For other chronicles new branches will be created
 6. File merging
 7. PCH compilation
 
+## Next steps
+1. Syntax hightlighting for all scripts, not AI only
+2. Extracting quests from AI scritps into separate `questdata`
+3. More precise file separation (e.g. separating weapons and armors by types, spell-boocks by chants/books/blueprints, etc)
+4. C4+ support
+
 ## How to integrate L2DataPack in QtCreator IDE
 1. Download and install [QtCreator](https://download.qt.io/official_releases/qtcreator/4.10/4.10.1/qt-creator-opensource-windows-x86_64-4.10.1.exe)
 2. Download and install [CMake](https://github.com/Kitware/CMake/releases/download/v3.16.0-rc3/cmake-3.16.0-rc3-win64-x64.msi)
