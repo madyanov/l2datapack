@@ -43,7 +43,7 @@ For other chronicles new branches will be created
 13. Setup tools (L2CC, NASC, AI Merger)
 ![Setup tools](https://i.ibb.co/QH25TQZ/tools.png)
 
-That's it. Now you will be able to "build" script files bu right-cliking on the "Hammer icon" and choosing `Build <target name>`, e.g.
+That's it. Now you will be able to "build" script files by right-cliking on the "Hammer icon" and choosing `Build <target name>`, e.g.
 ```
 build 1-basics
 build 2-complex
